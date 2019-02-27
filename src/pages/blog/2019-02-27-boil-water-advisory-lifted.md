@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: BOIL WATER ADVISORY LIFTED
 date: 2019-02-27T18:46:07.925Z
-draft: true
+draft: false
 description: Boil Water Advisory no longer in effect
 ---
 The **Boil Water Advisory** issued for the residents on Boone Ave., Short St. and Belmont Ave. has been lifted and is no longer in effect.  The water has been tested and lab analyses have shown the water to be safe. Therefore, you will no longer need to boil any water.
