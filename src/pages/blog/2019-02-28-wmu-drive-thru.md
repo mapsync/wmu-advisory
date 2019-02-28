@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'WMU DRIVE-THRU '
+title: WMU DRIVE-THRU CLOSED
 date: 2019-02-28T13:11:30.399Z
 draft: false
 description: Drive-Thru to be closed for repair
