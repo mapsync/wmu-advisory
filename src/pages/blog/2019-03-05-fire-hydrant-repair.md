@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: Fire Hydrant Repair
 date: 2019-03-05T14:25:14.046Z
-draft: true
+draft: false
 description: Intersection of Jackson St. & Jefferson St.
 ---
 Please be advised on Wednesday, March 6, 2019, WMU Crews will be making repairs to a fire hydrant located at the intersection of Jackson Street & Jefferson Street.  During the course of work, water service will be temporarily interrupted to approximately 50 WMU water customers at the following locations:  
