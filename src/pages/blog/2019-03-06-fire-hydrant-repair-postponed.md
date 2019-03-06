@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: FIRE HYDRANT REPAIR POSTPONED
 date: 2019-03-06T12:24:47.841Z
-draft: true
+draft: false
 description: Intersection of Jackson St. & Jefferson St.
 ---
 Due to unforeseen events and circumstances the fire hydrant repair at the intersection of Jackson St. & Jefferson St. that was scheduled for Wednesday, March 6, 2019, has been postponed.  The work will be rescheduled for a future date.
