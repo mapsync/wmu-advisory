@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: BOIL WATER ADVISORY LIFTED
 date: 2019-03-13T19:38:50.844Z
-draft: true
+draft: false
 description: Boil Water Advisory lifted
 ---
 The Boil Water Advisory issued for the residents on E. Washington St., Jackson St., Jefferson St., Park Ave., Smith Ave. & Vine St. has been lifted and is no longer in effect.  The water has been tested and lab analyses have shown the water to be safe. Therefore, you will no longer need to boil any water.
