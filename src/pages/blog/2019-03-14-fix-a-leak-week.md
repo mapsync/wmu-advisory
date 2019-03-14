@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: FIX A LEAK WEEK
 date: 2019-03-14T19:56:07.368Z
-draft: true
+draft: false
 description: 'March 18 thru 24, 2019'
 ---
 **Fix a Leak Week** is March 18 thru 24, 2019.  According to the Environmental Protection Agency, household leaks account for more than 1 trillion gallons of water wasted each year in the U.S.  In addition to needlessly wasting this precious natural resource, leaks also cost money.  Timely repair of leaks and proper maintenance of home plumbing can save homeowners money on their water and sewer bill.  Here are some simple steps homeowners can take to check for leaks:  
