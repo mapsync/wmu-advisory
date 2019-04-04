@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: ANNUAL FIRE HYDRANT FLUSHING
 date: 2019-04-04T12:25:13.036Z
-draft: true
+draft: false
 description: 'Thursday, April 4th'
 ---
 In conjunction with the annual fire hydrant flushing program, WMU and the Clark County Fire Department will be flushing hydrants on Thursday, April 04, 2019. 
