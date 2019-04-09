@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: ANNUAL FIRE HYDRANT FLUSHING
 date: 2019-04-09T11:49:39.472Z
-draft: true
+draft: false
 description: 'Tuesday, April 9th'
 ---
 In conjunction with the annual fire hydrant flushing program, WMU and the Winchester Fire Department will be flushing hydrants on Tuesday, April 09, 2019. 
