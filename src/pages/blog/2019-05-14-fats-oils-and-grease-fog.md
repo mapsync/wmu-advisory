@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'Fats, Oils, and Grease (FOG)'
 date: 2019-05-14T12:12:47.136Z
-draft: true
+draft: false
 description: Help eliminate grease
 ---
 Residents can help prevent pipe blockages and sewer overflows by keeping Fats, Oils, and Grease (FOG) out of the sewer system.  When washed down the sink or toilet, FOG sticks to the inside of sewer pipes and builds up, causing sewer backups into homes, apartments, and businesses.  Sewer backups are costly to repair and present a significant public health risk.  Here are some simple steps residents can take to help prevent sewer backups:
