@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: BOIL WATER ADVISORY
 date: 2019-06-18T16:27:54.608Z
-draft: true
+draft: false
 description: A Boil Water Advisory issued
 ---
 A BOIL WATER ADVISORY is in effect for WMU water customers located in the following area(s):
