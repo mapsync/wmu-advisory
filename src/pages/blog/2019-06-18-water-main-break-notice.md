@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: WATER MAIN BREAK NOTICE
 date: 2019-06-18T11:18:40.453Z
-draft: true
+draft: false
 description: Water Main Break on Lynnway Drive
 ---
 Please be advised a water main break has been confirmed on Lynnway Drive near Clifton Court and Stoney Brook Drive.  Water service will temporarily be disrupted in the immediate vicinity.  Repairs are IN PROGRESS.  Should a Boil Water Advisory be necessary all affected customers will be notified via door hangers.  Streets in the immediate area are as follows:
