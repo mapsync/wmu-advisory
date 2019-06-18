@@ -11,6 +11,7 @@ Please be advised a water main break has been confirmed on Lynnway Drive near Cl
 * Clifton Court
 * Debbia Drive
 * Delaplain Road
+* Fieldstone Way
 
 Customers in the surrounding areas of the work may experience low water pressure and / or temporary discoloration of their water caused by sedimentation being broken loose from the water lines.  This discoloration does not affect the safety of the water and should be clear within 2-3 hours of the work being performed.  It is advised that no washing of clothes or other water sensitive operations be performed until the water clears completely.  Additionally, it is also recommended that you limit or avoid using hot water and allow a cold water faucet to run a few minutes before using.  
 
