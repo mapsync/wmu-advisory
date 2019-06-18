@@ -7,7 +7,7 @@ description: Water Main Break on Lynnway Drive
 ---
 Please be advised a water main break has been confirmed on Lynnway Drive near Clifton Court and Stoney Brook Drive.  Water service will temporarily be disrupted in the immediate vicinity.  Repairs are IN PROGRESS.  Should a Boil Water Advisory be necessary all affected customers will be notified via door hangers.  Streets in the immediate area are as follows:
 
-* 11 to 41 Lynnway Drive 
+* 11 to 417 Lynnway Drive 
 * Clifton Court
 * Debbia Drive
 * Delaplain Road
@@ -16,4 +16,4 @@ Customers in the surrounding areas of the work may experience low water pressure
 
 We appreciate your cooperation and apologize for any inconvenience this work may cause.
 
-See Map
+[See Map](https://geosync.cloud/maps/9c6053d0-4304-49e1-a64b-0466c7018bad?layer=Advisory&feature=4)
