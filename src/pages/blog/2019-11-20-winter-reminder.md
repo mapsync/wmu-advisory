@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: WINTER REMINDER
 date: 2019-11-20T13:21:36.759Z
-draft: true
+draft: false
 description: Help Prevent Your Water Pipes from Freezing!
 ---
 Winter is fast approaching and WMU would like to remind our customers of some precautions that could avoid frozen and damaged water lines.  The cold from last winter caused a great deal of damage to both household plumbing and buried pipes.  We ask our customers to consider the following options:
