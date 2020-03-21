@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: 'WATER MAIN BREAK NOTICE '
 date: 2020-03-21T16:28:47.401Z
-draft: true
+draft: false
 description: Water Main Break on Caudill Drive
 ---
 Please be advised a water main break has been confirmed at 104 Caudill Drive.  Repairs are IN PROGRESS.  A Boil Water Advisory HAS NOT been issued.   
