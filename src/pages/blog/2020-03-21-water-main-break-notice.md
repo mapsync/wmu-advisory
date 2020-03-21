@@ -12,3 +12,5 @@ Customers in the immediate vicinity of the work may experience temporary discolo
 It is advised that No Washing of Clothes or other water sensitive operations be performed until the water clears completely.  Additionally, it is also recommended that you limit or avoid using hot water and allow a cold water faucet to run a few minutes before using.   
 
 We appreciate your cooperation and apologize for any inconvenience this work may cause.
+
+[MAP](https://wmu.geosync.cloud/map/?layer=Advisory&feature=6)
