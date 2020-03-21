@@ -2,7 +2,7 @@
 templateKey: blog-post
 title: WMU UPDATE TO ADDRESS COVID-19
 date: 2020-03-17T15:44:06.417Z
-draft: true
+draft: false
 description: Updated 3/17/2020
 ---
 In response to the developing events of the spread of the COVID-19 virus, Winchester Municipal Utilities (WMU) has temporarily suspended all water service shut-offs for non-payment and will begin reinstating service to customers who have been previously shut-off.  Utility customers should continue to pay their bill for the water, sewer, and solid waste charges as they will be ultimately responsible for any charges accrued during this moratorium.  We encourage those who can’t pay by their due date to contact WMU Customer Service to help with payment options.  In addition, WMU will be suspending all non-emergency service calls and appointments and will limit contact with customers during all emergency service calls.
